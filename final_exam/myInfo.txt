@@ -1,3 +1,9 @@
 First Name: Tommy
 Last Name: Nguyen
+<<<<<<< HEAD
 Email: tnguye59@villanova.edu
+=======
+
+First Name: Justin
+Last Name: Tran
+>>>>>>> 0bdeb3141e404214fe82822fc505b475d09e8162
